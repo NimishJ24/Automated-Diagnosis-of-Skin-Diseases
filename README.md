@@ -11,18 +11,12 @@ A powerful deep learning model for classifying 24 different types of skin diseas
 
 
 ---
-
 ## 📋 Table of Contents
 * [About The Project](#about-the-project)
 * [Model Architecture](#model-architecture)
 * [Dataset](#dataset)
 * [Installation](#installation-️)
 * [Usage](#usage-)
-* [Results](#results-)
-* [Contributing](#contributing-)
-* [License](#license-)
-* [Acknowledgments](#acknowledgments-)
-
 ---
 
 ## 📝 About The Project
