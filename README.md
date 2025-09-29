@@ -1,8 +1,3 @@
-# Automated-Diagnosis-of-Skin-Diseases
-
-Focus on developing a robust and efficient deep learning model to diagnose 24 distinct skin diseases, including Acne, Eczema, Melanoma, and more, as illustrated in the provided dataset. The project leverages a large, diverse dataset containing thousands of labeled images for each condition, enabling the model to learn and generalize across various skin types and disease manifestations.
-We utilize XceptionNet, a state-of-the-art convolutional neural network architecture, fine-tuned to enhance its performance on the specific task of skin disease classification. Fine-tuning is performed by initializing the network with pre-trained weights and then retraining the model on our skin disease dataset, adjusting multiple hyperparameters such as learning rate, batch size, and dropout rates to prevent overfitting and improve model accuracy.
-
 # Skin Disease Classification using Deep Learning 🩺
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow)
